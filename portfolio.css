@@ -1,36 +1,32 @@
 ﻿
 html {
-    display: table;
-    margin: auto;
 }
 
 body {
-    display: table-cell;
     vertical-align: middle;
     color: black;
     background-color: lightblue;
-
 }
 
 #main-heading {
     font-size: 20px;
-    font-family: sans-serif;
-    font-family: arial;
-    background-color: darkcyan;
-    width: 700px;
-    text-align: left;
+    font-family: arial, sans-serif;
+    background-color: lightblue;
     border-radius: 25px;
     display: block;
     padding: 10px;
-    margin: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 .img-circle {
     border-radius: 50%;
 }
 img {
-    float: right;
-    margin-top: 20px;
-    margin-right: 20px;
+    float: left;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 40px;
+    width: 20%;
     -webkit-transition: all 0.5s ease;
     -moz-transition: all 0.5s ease;
     -o-transition: all 0.5s ease;
@@ -48,29 +44,47 @@ img:hover {
 
 #about-me {
     font-size: 20px;
-    font-family: sans-serif;
-    font-family: arial;
-    background-color: darkcyan;
-    width: 700px;
-    text-align: center;
+    font-family: arial, sans-serif;
+    background-color: lightblue;
+    text-align: left;
     border-radius: 25px;
     padding: 10px;
-    margin: 20px;
-}
-#links {
-    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: block;
 }
 a {
-    font-family: sans-serif;
-    font-family: arial;
-    color: midnightblue;
+    font-family: arial, sans-serif;
+    color: #2A3E81;
+    /*color: midnightblue;*/
     border-radius: 25px;
     font-size: 20px;
     background-color: lightblue;
     border: none;
-    margin: 10 px;
+    margin: 10px;
     padding: 0px 10px;
 }
 a:hover {
     color: darkslategray;
+}
+.icons-list {
+    display: inline;
+    text-align: center;
+    list-style: none;
+}
+hr {
+    border-color: #2A3E81;
+    /*border-color: midnightblue;*/
+    /*width: 680px;*/
+}
+#blue {
+    color: #72554D;
+    /*color: #2A3E81;*/
+    /*color: midnightblue;*/
+}
+h1 {
+    margin-bottom: 0px;
+}
+h3 {
+    margin: 10px;
 }
