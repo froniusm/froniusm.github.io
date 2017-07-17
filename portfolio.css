@@ -2,13 +2,13 @@
 body {
     vertical-align: middle;
     color: black;
-    background-color: lightblue;
+    background-color: #C8CFE8;
 }
 
 #main-heading {
     font-size: 20px;
     font-family: arial, sans-serif;
-    background-color: lightblue;
+    background-color: #C8CFE8;
     border-radius: 25px;
     display: block;
     padding: 10px;
@@ -41,7 +41,7 @@ img:hover {
 #about-me {
     font-size: 20px;
     font-family: arial, sans-serif;
-    background-color: lightblue;
+    background-color: #C8CFE8;
     text-align: left;
     border-radius: 25px;
     padding: 10px;
@@ -54,7 +54,7 @@ a {
     color: #0E1E69;
     border-radius: 25px;
     font-size: 20px;
-    background-color: lightblue;
+    background-color: #C8CFE8;
     border: none;
     margin: 10px;
     padding: 0px 10px;
