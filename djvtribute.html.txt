@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset=”utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">	
+  <link rel="stylesheet" href="djvtribute.css" type="text/css" />
+</head>
+<body>
+  <div id="main" class="container">
+    <div class="text-center">
+    <h1>
+      <strong>
+      Dorothy Johnson Vaughan
+      </strong>
+    </h1>
+    <h4>
+      <i>
+      September 20, 1910 - November 10, 2008
+      </i>
+    </h4>
+        <h3>
+      American mathematician and computer programmer
+    </h3>
+    </div>
+    <div class="row">
+    <div class="col-xs-6 col-xs-offset-3">
+    <div class="thumbnail">
+    <img src="http://www.demotivateur.fr/images-buzz/8793/dorothy%20vaughan.jpg" class="img-thumbnail img-responsive center-block" alt="Dorothy Johnson Vaughan standing at an IBM computer.">
+    <div class="caption">
+      <p>While working at NACA/NASA, Dorothy Vaughan taught herself the computer programming language, FORTRAN. </p>
+    </div>
+    </div>
+  </div>
+    </div>
+    <div class="col-xs-6 col-xs-offset-3 text-left">
+    <h3 class="headings-with-margin">
+      Here's a timeline of Dorothy Vaughan's life:
+    </h3>
+    <ul>
+      <li>
+        <strong>1910</strong> - Born on September 20 in Kansas City, Missouri
+      </li>
+      <li>
+        <strong>1929</strong> - Attended Wilberforce University in Wilberforce, Ohio on a full scholarship and earned a degree in mathematics
+      </li>
+      <li>
+        <strong>1930</strong> - Worked as a mathematics teacher at R.R. Moton High School in Farmville, Virginia
+      </li>
+      <li>
+        <strong>1932</strong> - Married Howard S. Vaughan Jr. (they would raise six children together)
+      </li>
+      <li>
+        <strong>1943</strong> - Started work at the National Advisory Committee for Aeronautics and was assigned to the West Area Computer Unit of the Langley Research Center in Hampton, Virginia
+      </li>
+      <li>
+        <strong>1949</strong> - Became head of the West Area Computer Unit and was NACA/NASA's first African-American manager 
+      </li>
+      <li>
+        <strong>1961</strong> - After teaching herself the computer programming language, FORTRAN, joined the new Analysis and Computation Division (ACD) at NASA
+      </li>
+      <li>
+        <strong>1971</strong> - Retired from NASA
+      </li>
+      <li>
+        <strong>2008</strong> - Died at age 98
+      </li>
+      <li>
+        <strong>2016</strong> - Featured in the book <i>Hidden Figures</i> by Margot Lee Shetterly and movie of the same name (based on the book) directed by Theodore Melfi and written by Melfi and Allison Schroeder
+      </li>
+    </ul>
+    <blockquote class="quote" class="pull-left">
+    "Her legacy lives on in the successful careers of notable West Computing alumni, including Mary Jackson, Katherine Johnson, Eunice Smith and Kathryn Peddrew, and the achievements of second-generation mathematicians and engineers such as Dr. Christine Darden."
+ <small>Margot Lee Shetterly</small>
+    </blockquote>
+    <h3 class="headings-with-margin">
+      If you have time, you should read more about this inspiring woman on her <a href="https://en.wikipedia.org/wiki/Dorothy_Vaughan" target="_blank">Wikipedia entry</a>.
+    </h3>
+    </div>
+  </div>
+  <hr>
+  <p class="text-center">Written and coded by Molly Fronius</p>
+</body>
+</html>
